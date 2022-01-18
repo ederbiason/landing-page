@@ -79,6 +79,10 @@ body {
     color: #2F2325;
 }
 
+.content-button:hover {
+    background-color: rgba(236, 214, 196, .53);
+}
+
 .content-sec {
     display: flex;
     flex-direction: column;
