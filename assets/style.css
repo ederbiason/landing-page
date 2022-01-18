@@ -9,7 +9,8 @@
 
 body {
     font-size: 100%;
-    background: linear-gradient(68.15deg, #abe9cd 16.62%, #3eadcf 85.61%);
+    background-color: #fbb034;
+    background-image: linear-gradient(315deg, #fbb034 0%, #ffdd00 74%);
 }
 
 .header {
@@ -30,14 +31,14 @@ body {
 
 .header-menu-item {
     font-family: 'Sarala', sans-serif;
-    color: #FFF2E7;
+    color: #FFF;
     font-weight: 400;
     font-size: 18px;
 }
 
 .content { 
     margin-bottom: 48px;
-    border-top: .4px solid #FFF2E7;
+    border-top: .4px solid #FFFFFF;
 }
 
 .content-main {
@@ -56,18 +57,18 @@ body {
     font-family: 'Righteous', cursive;
     font-weight: 400;
     font-size: 64px;
-    color: #FFF2E7;
+    color: #FFFFB7;
 }
 
 .content-subtitle {
     font-family: 'Sarala', sans-serif;
     font-weight: 400;
     font-size: 24px;
-    color: #ECD6C4;
+    color: #FFFFFF;
 }
 
 .content-button {
-    background-color: #ECD6C4;
+    background-color: #FFFFB7;
     width: 170px;
     height: 60px;
     border: none;
@@ -97,7 +98,7 @@ body {
     font-family: 'Righteous', cursive;
     font-weight: 400;
     font-size: 2 4px;
-    color: #FFF2E7;
+    color: #FFFFFF;
     margin-bottom: 16px;
 }
 
@@ -105,7 +106,7 @@ body {
     font-family: 'Sarala', sans-serif;
     font-weight: 300;
     font-size: 18px;
-    color: #ECD6C4;
+    color: #FFFFB7;
 }
 
 .footer {
